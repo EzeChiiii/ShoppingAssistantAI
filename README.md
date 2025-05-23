@@ -28,7 +28,7 @@ A conversational shopping assistant built with LangGraph, Tavily Search, and Gro
 ```
 shopping-assistant-ai/
 │
-├── main.py                     # Main Streamlit + LangGraph implementation
+├── mini_project-1_Iwu.py                     # Main Streamlit + LangGraph implementation
 ├── requirements.txt
 └── README.md
 ```
@@ -65,7 +65,7 @@ export TAVILY_API_KEY=your_tavily_api_key
 5. Launch the app:
 
 ```bash
-streamlit run main.py
+streamlit run mini_project-1_Iwu.py
 ```
 
 ## ✅ Strengths
