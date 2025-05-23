@@ -13,7 +13,18 @@ A conversational shopping assistant built with LangGraph, Tavily Search, and Gro
 
 ## 📸 Demo Preview
 
-*(Insert GIF or screenshot of Streamlit app here)*
+<img width="842" alt="Screenshot 2025-05-23 at 6 50 44 PM" src="https://github.com/user-attachments/assets/0f30de03-2083-4b76-8153-273d78f51947" />
+
+
+
+
+<img width="1440" alt="Screenshot 2025-05-23 at 6 51 26 PM" src="https://github.com/user-attachments/assets/2f63c64d-036e-4db7-9447-dd687ffdf63e" />
+
+
+
+
+
+
 
 ## 🛠️ Tech Stack
 
